@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-9^3xgh9=in*8z(8t&d0j91l3ux+eax*$)ruj-_(fe_-ij1bv3f
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost']
+ALLOWED_HOSTS = ['second-chance-for-toys.herokuapp.com', 'localhost']
 
 X_FRAME_OPTIONS = 'SAMEORIGIN'
 
